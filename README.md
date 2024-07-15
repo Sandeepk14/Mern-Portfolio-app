@@ -1,4 +1,8 @@
 # Getting Started with Create React App
+#demo 
+https://main--mernportfolio14.netlify.app/
+# preview
+preview: ![image](https://github.com/user-attachments/assets/df3e6710-d2d5-479d-8b14-ec5e1f15537c)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
